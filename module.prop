@@ -1,0 +1,6 @@
+id=selinux_enforcer
+name=SELinux Enforcer for Magisk/KernelSU by MarsTianZ
+version=v1.0
+versionCode=10
+author=MarsTianZ
+description=Forces SELinux into Enforcing mode on boot to improve security and bypass root detection. [USE THIS MODULE IF YOUR ROM USE PERMISSIVE SELINUX AND EROFS]. DWYOR!
