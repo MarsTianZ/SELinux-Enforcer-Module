@@ -43,7 +43,7 @@ This module relies on core Android/Linux kernel functionality and is expected to
 
 ### **Installation Steps**
 
-1.  Download the latest stable release: **[SELinux_Enforcer_v1.0.zip (Direct Download)](link_yang_anda_salin)**
+1.  Download the latest stable release: **[SELinux_Enforcer_v1.0.zip (Direct Download)](https://github.com/MarsTianZ/SELinux-Enforcer-Module/releases/tag/v1.0)**
 2.  Open your Root Manager application (**KernelSU Manager** or **Magisk Manager**).
 3.  Navigate to the **Modules** section.
 4.  Install the downloaded ZIP file.
