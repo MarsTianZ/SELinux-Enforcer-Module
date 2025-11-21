@@ -58,7 +58,7 @@ This module relies on core Android/Linux kernel functionality and is expected to
 | :--- | :--- |
 | **Author** | MarsTianZ |
 | **Source Code** | [https://github.com/MarsTianZ/SELinux-Enforcer-Module] |
-| **Credits** | The core technical insight and module structure assistance provided by **Gemini (Google)**. |
+| **Credits** | The core technical insight and module structure assistance provided by **Gemini.AI (Google)**. |
 
 ---
 
